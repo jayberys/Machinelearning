@@ -7,8 +7,17 @@ Contiene:
 3. Bucles: ejercicio con while, iterar con for, bucles anidados
 
 
-#Machinelearning 14/03/2023 Dia 2
+# Machinelearning 15/03/2023 Día 3.
 
 Contiene: 
 
 1. Ejercicio Space X 
+
+
+# Machinelearning 16/03/2023 Día 3.
+
+Contiene:
+
+1. Prophet
+2. Introduccion a machine learning
+3. Folium
